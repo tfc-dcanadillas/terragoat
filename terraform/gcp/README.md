@@ -1,1 +1,1 @@
-This project uses a state bucket - see the main project README.
+This project uses TFC as Remote Backend - see the main project README.
